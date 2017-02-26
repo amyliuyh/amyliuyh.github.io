@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="117.618px" height="85.1px" viewBox="0 0 117.618 85.1" enable-background="new 0 0 117.618 85.1" xml:space="preserve">
+<g id="Warstwa_2" display="none">
+	<g id="klKqW8_1_" display="inline">
+	</g>
+</g>
+<g id="Warstwa_3">
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-77.1626" y1="-576.3254" x2="-75.0777" y2="-576.3254" gradientTransform="matrix(1 0 0 -1 199.2803 -531.6909)">
+		<stop  offset="0" style="stop-color:#6E6E6E"/>
+		<stop  offset="1" style="stop-color:#363636"/>
+	</linearGradient>
+	<rect x="122.118" y="44.551" fill="url(#SVGID_1_)" width="1" height="0.167"/>
+</g>
+<rect x="19.809" y="13.55" fill="none" width="83.5" height="53.5"/>
+<text transform="matrix(1 0 0 1 6.2817 40.3)" font-family="'ArialMT'" font-size="35">Amy</text>
+<rect x="57.809" y="47.726" fill="none" width="64.309" height="31.049"/>
+<text transform="matrix(1 0 0 1 57.8091 77.761)" font-family="'ArialMT'" font-size="35">Liu</text>
+<polygon fill="#FFF000" points="94.135,8.858 96.389,17.47 104.763,20.494 97.268,25.299 96.978,34.198 90.092,28.555 
+	81.542,31.031 84.78,22.738 79.784,15.368 88.67,15.885 "/>
+</svg>
